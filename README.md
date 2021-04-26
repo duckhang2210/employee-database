@@ -10,7 +10,7 @@
 
 - Employees who were born between 1952 and 1955
 
-![Retiring Employees]('../employee-database/Resources/retirement_titles.png')
+![Retiring Employees](/Resources/retirement_titles.png)
 
 - Retiring Employees with updated title
 
