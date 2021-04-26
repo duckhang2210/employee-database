@@ -1,3 +1,25 @@
 # Module 7 | Assignment - Employee Database
 
-Create entity relationship diagrams, perform data modeling and analysis on an employee database using SQL.
+## The purpose of this analysis:
+
+- Determine the number of retiring employees per title.
+- Identify employees who are eligible to participate in a mentorship program.
+- Prepare for the “silver tsunami” as many current employees reach retirement age.
+
+## Results:
+
+- Employees who were born between 1952 and 1955
+
+![Retiring Employees]('../employee-database/Resources/retirement_titles.png')
+
+- Retiring Employees with updated title
+
+![Updated title]('../employee-database/Resources/unique_titles.png')
+
+- Retiring Titles
+
+![Retiring Title]('../employee-database/Resources/retiring_titles.png)
+
+- Mentorship Eligibility - employees who were born between January 1, 1965 and December 31, 1965
+
+![Mentorship]('../employee-database/Resources/mentoring_titles.png')
