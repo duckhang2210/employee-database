@@ -14,12 +14,12 @@
 
 - Retiring Employees with updated title
 
-![Updated title]('../employee-database/Resources/unique_titles.png')
+![Updated title](/Resources/unique_titles.png)
 
 - Retiring Titles
 
-![Retiring Title]('../employee-database/Resources/retiring_titles.png)
+![Retiring Title](/Resources/retiring_titles.png)
 
 - Mentorship Eligibility - employees who were born between January 1, 1965 and December 31, 1965
 
-![Mentorship]('../employee-database/Resources/mentoring_titles.png')
+![Mentorship](/Resources/mentoring_titles.png)
